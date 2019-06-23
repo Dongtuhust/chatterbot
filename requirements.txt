@@ -2,3 +2,5 @@ django>=2.1,<2.2
 chatterbot>=0.8,<1.1
 googletrans==2.4.0
 chatterbot_corpus==1.2.0
+gunicorn==19.9.0
+django-heroku
