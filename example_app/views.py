@@ -26,9 +26,8 @@ class ChatterBotApiView(View):
         ]
     )
     # trainer = ChatterBotCorpusTrainer(chatterbot)
-    # trainer.train("chatterbot.corpus.english")
     trainer = ListTrainer(chatterbot)
-    # trainer.train("example_app/training_file.json")
+    trainer.train("example_app/training_file.json")
     trainer.train([
             "Hello",
             "Hi you! How I can help you",
@@ -50,6 +49,9 @@ class ChatterBotApiView(View):
             "So what's your favorite color?",
             "Blue"
         ])
+    trainer = ChatterBotCorpusTrainer(chatterbot)
+    trainer.train("chatterbot.corpus.english")
+    trainer.train("example_app/training_file.json")
 
     def post(self, request, *args, **kwargs):
         """

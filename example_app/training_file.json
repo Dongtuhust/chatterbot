@@ -34,7 +34,19 @@
             "What is your favorite book?",
             "I can't read.",
             "So what's your favorite color?",
-            "Blue"
+            "Blue",
+            "What is your favorite sport?",
+            "Football",
+            "Do you know hackathon?",
+            "Yes! That is the name of a software development competition",
+            "How can I try?",
+            "Visit website http://hackathon.vjc.org.vn/en/homepagevn/",
+            "How can I win?",
+            "That is a difficult question! Depending on your efforts",
+            "Let's give me some advide",
+            "Don't give up! I'm always there for you",
+            "Thanks",
+            "You 're welcome! You are my friend!"
         ]
     ]
 }
