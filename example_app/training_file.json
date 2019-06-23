@@ -1,0 +1,33 @@
+{
+    "conversations": [
+        [
+            "Hello",
+            "Hi you! How I can help you",
+            "Hi",
+            "Hi you! How I can help you",
+            "What your name?",
+            "I am VietnamesChatBot! You ask me in English, I will answer in Vietnamese",
+            "Who are you?",
+            "I am VietnamesChatBot! You ask me in English, I will answer in Vietnamese"
+        ],
+        [
+            "Good morning, how are you?",
+            "I am doing bad, how about you?",
+            "I'm also good.",
+            "That's good to hear.",
+            "Yes it is."
+        ],
+        [
+            "How are you doing?",
+            "I am doing well, how about you?",
+            "I am also good.",
+            "That's good."
+        ],
+        [
+            "What is your favorite book?",
+            "I can't read.",
+            "So what's your favorite color?",
+            "Blue"
+        ]
+    ]
+}
